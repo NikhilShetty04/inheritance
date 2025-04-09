@@ -19,5 +19,6 @@ class dog
  protected void bark()
     {
         System.out.println("barking");
+        System.out.println("Dog");
     }
 }
